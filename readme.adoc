@@ -15,7 +15,7 @@ Au cours de ce talk, nous allons voir pourquoi la cybersécurité embarquée dan
 ## Replay image:https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg[width="30px" height="30px"]
 
 
-image::https://i.ytimg.com/vi/1BkxxfyySG4/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLATeKpuNh1PDjY244fhONzH_h3Zjw[link=link:https://www.youtube.com/watch?v=1BkxxfyySG4, window=_blank]
+image::https://i.ytimg.com/vi/1BkxxfyySG4/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLATeKpuNh1PDjY244fhONzH_h3Zjw[link=https://www.youtube.com/watch?v=1BkxxfyySG4, window=_blank]
 
 ## Support
 
