@@ -1,0 +1,22 @@
+# Talk que j'ai eu la chance de donner au Devoxx 2026
+
+link:https://www.devoxx.fr/[Devoxx.fr, window=_blank]
+
+## Abstract link:https://m.devoxx.com/events/devoxxfr2026/talks/19027/de-dveloppeur-hacker-savoir-casser-cest-savoir-protger-[🔗, window=_blank]
+
+Aujourd'hui, on prend conscience de l'importance de la cybersécurité. Le moindre piratage peut causer des pertes importantes, tant au niveau image que financier.
+
+Les premiers acteurs de la sécurité sont les développeurs. Avec une vision basée sur la seule protection des SI, ils n'envisagent souvent pas les possibilités de l'attaquant. Ne faudrait-il pas changer ce fonctionnement et passer dans la peau de l'attaquant pour élargir notre vision de la cybersécurité ? Comme le dit le dicton : "ce sont les braconniers qui font les meilleurs gardes-chasse" 😉
+
+Chaque développeur devrait coder avec en tête : "comment je pourrais bien casser ça ?" Devenir hacker c'est revenir aux basiques (modèle OSI, algorithmie…) et accroître sa polyvalence.
+
+Au cours de ce talk, nous allons voir pourquoi la cybersécurité embarquée dans les équipes de développement est un atout majeur pour les projets, et quelles compétences doivent être apprises afin d'acquérir une maîtrise complète des systèmes d'information en place. L'objectif est qu'en sortant, vous soyez convaincu qu'il est essentiel de "penser au hack de son code" au moment même de son écriture, et que vous soyez armés pour proposer une correction 💪
+
+## Replay image:https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg[width="30px" height="30px"]
+
+
+image::https://i.ytimg.com/vi/1BkxxfyySG4/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLATeKpuNh1PDjY244fhONzH_h3Zjw[link=link:https://www.youtube.com/watch?v=1BkxxfyySG4, window=_blank]
+
+## Support
+
+link:https://github.com/LordSokaar/Devoxx-2026---De-d-veloppeur-hacker-savoir-casser-c-est-savoir-prot-ger-/blob/main/Devoxx%202026%20-%20slides.pdf[Devoxx 2026 - slides.pdf, window=_blank]
